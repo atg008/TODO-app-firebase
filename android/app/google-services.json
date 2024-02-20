@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121076303829",
+    "project_id": "travelchat-a8df5",
+    "storage_bucket": "travelchat-a8df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121076303829:android:35e148e7243f44ad375f5c",
+        "android_client_info": {
+          "package_name": "com.example.travelchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5apqBqXrxw32yxBB7kUZYRLOVjr07Ua4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
